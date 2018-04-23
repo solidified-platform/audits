@@ -4,7 +4,8 @@ In the effort of transparency, we started publishing our audit reports to the pu
 
 This repository contains actual reports delivered to clients.
 
-If you'd like to do an audit with us, please [register here](https://solidified.io/?audit=request). 
+If you'd like to do an audit, please [inquiry here](https://solidified.io/?audit=request).
+ 
 If you're a Solidity expert and would like to join us, please [submit your application](https://solidified.io/?audit=onboarding). 
 
 
@@ -14,6 +15,7 @@ The following contracts have also ran a bug bounty with Solidified community:
 
 | Project version | Bounty Program URL |
 | ------ | ------ |
+| Bankera | [web.solidified.io/contract/5adda446c0729d0011c169fe](https://web.solidified.io/contract/5adda446c0729d0011c169fe) |
 | Gnosis Dutch Exchange | [web.solidified.io/contract/5ad47df97733ff0011a95c7c](https://web.solidified.io/contract/5ad47df97733ff0011a95c7c) |
 | Coder Inc | [web.solidified.io/contract/5aba9fe8f22f1e001957f7d3](https://web.solidified.io/contract/5aba9fe8f22f1e001957f7d3) |
 | BullToken Mainsale | [web.solidified.io/contract/5aabddf51a5fa9001b33e9f0](https://web.solidified.io/contract/5aabddf51a5fa9001b33e9f0) |
