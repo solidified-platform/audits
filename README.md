@@ -17,8 +17,10 @@ The following contracts have also ran a bug bounty with Solidified community:
 | ------ | ------ |
 | Bankera | [web.solidified.io/contract/5adda446c0729d0011c169fe](https://web.solidified.io/contract/5adda446c0729d0011c169fe) |
 | Gnosis Dutch Exchange | [web.solidified.io/contract/5ad47df97733ff0011a95c7c](https://web.solidified.io/contract/5ad47df97733ff0011a95c7c) |
-| Coder Inc | [web.solidified.io/contract/5aba9fe8f22f1e001957f7d3](https://web.solidified.io/contract/5aba9fe8f22f1e001957f7d3) |
+| IICO V2 | [web.solidified.io/contract/5af390e2b0720900110f9da4](https://web.solidified.io/contract/5af390e2b0720900110f9da4) |
+| IICO V1 | [web.solidified.io/contract/5ae5ecd4b0720900110f9d9b](https://web.solidified.io/contract/5ae5ecd4b0720900110f9d9b) |
 | BullToken Mainsale | [web.solidified.io/contract/5aabddf51a5fa9001b33e9f0](https://web.solidified.io/contract/5aabddf51a5fa9001b33e9f0) |
+| Coder Inc | [web.solidified.io/contract/5aba9fe8f22f1e001957f7d3](https://web.solidified.io/contract/5aba9fe8f22f1e001957f7d3) |
 | Wyvern Protocol V2 | [web.solidified.io/contract/5a9c2dda6dbddf0011f95f06](https://web.solidified.io/contract/5a9c2dda6dbddf0011f95f06) |
 | Taylor | [web.solidified.io/contract/5a7851a3a1587f0011af9f87](https://web.solidified.io/contract/5a7851a3a1587f0011af9f87) |
 | Wyvern Protocol V1 | [web.solidified.io/contract/5a75e8f9a1587f0011af9f86](https://web.solidified.io/contract/5a75e8f9a1587f0011af9f86) |
