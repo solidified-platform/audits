@@ -17,6 +17,8 @@ The following contracts have also ran a bug bounty with Solidified community:
 | ------ | ------ |
 | Bankera | [web.solidified.io/contract/5adda446c0729d0011c169fe](https://web.solidified.io/contract/5adda446c0729d0011c169fe) |
 | Gnosis Dutch Exchange | [web.solidified.io/contract/5ad47df97733ff0011a95c7c](https://web.solidified.io/contract/5ad47df97733ff0011a95c7c) |
+| Gnosis Safe | [web.solidified.io/contract/5b4769b1e6c0d80014f3ea4e](https://web.solidified.io/contract/5b4769b1e6c0d80014f3ea4e) |
+| Melonport | [web.solidified.io/contract/5b351220ff633b001155d511](https://web.solidified.io/contract/5b351220ff633b001155d511) |
 | IICO V2 | [web.solidified.io/contract/5af390e2b0720900110f9da4](https://web.solidified.io/contract/5af390e2b0720900110f9da4) |
 | IICO V1 | [web.solidified.io/contract/5ae5ecd4b0720900110f9d9b](https://web.solidified.io/contract/5ae5ecd4b0720900110f9d9b) |
 | BullToken Mainsale | [web.solidified.io/contract/5aabddf51a5fa9001b33e9f0](https://web.solidified.io/contract/5aabddf51a5fa9001b33e9f0) |
@@ -34,6 +36,8 @@ The following contracts have also ran a bug bounty with Solidified community:
 | Demeter Life | [web.solidified.io/contract/5a06c3f30c0e83000f8cfd73](https://web.solidified.io/contract/5a06c3f30c0e83000f8cfd73) |
 | Solidified V2 | [web.solidified.io/contract/5a6b8235c774d00011909b22](https://web.solidified.io/contract/5a6b8235c774d00011909b22) |
 | Solidified V1 | [web.solidified.io/contract/5a0603a416584a000fce451e](https://web.solidified.io/contract/5a0603a416584a000fce451e) |
+| Solidified Crowdsale | [web.solidified.io/contract/5b4facd6e6c0d80014f3ea53](https://web.solidified.io/contract/5b4facd6e6c0d80014f3ea53) |
 
 
-© 2018 Solidified Technologies Inc.
+© 2018 Solidified Ltd
+https://solidified.io
