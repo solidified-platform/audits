@@ -36,7 +36,7 @@ The following contracts have also ran a bug bounty with Solidified community:
 | Demeter Life | [web.solidified.io/contract/5a06c3f30c0e83000f8cfd73](https://web.solidified.io/contract/5a06c3f30c0e83000f8cfd73) |
 | Solidified V2 | [web.solidified.io/contract/5a6b8235c774d00011909b22](https://web.solidified.io/contract/5a6b8235c774d00011909b22) |
 | Solidified V1 | [web.solidified.io/contract/5a0603a416584a000fce451e](https://web.solidified.io/contract/5a0603a416584a000fce451e) |
-| Solidified Crowdsale | [web.solidified.io/contract/5b4facd6e6c0d80014f3ea53](https://web.solidified.io/contract/5b4facd6e6c0d80014f3ea53) |
+| Solidified Crowdsale | [web.solidified.io/contract/5b5223b8e6c0d80014f3ea58](https://web.solidified.io/contract/5b5223b8e6c0d80014f3ea58) |
 
 
 © 2018 Solidified Ltd
