@@ -15,6 +15,12 @@ The following contracts have also ran a bug bounty with Solidified community:
 
 | Project version | Bounty Program URL |
 | ------ | ------ |
+| Brickblock | [web.solidified.io/contract/5b9e754ffd407500116a9d0f](https://web.solidified.io/contract/5b9e754ffd407500116a9d0f) |
+| Polymath | [web.solidified.io/contract/5b883dddfd407500116a9d09](https://web.solidified.io/contract/5b883dddfd407500116a9d09) |
+| Tip Splitter | [web.solidified.io/contract/5b75080fe922730013e32318](https://web.solidified.io/contract/5b75080fe922730013e32318) |
+| Kleros Main Contract | [web.solidified.io/contract/5b58bba79d56c6001179477b](https://web.solidified.io/contract/5b58bba79d56c6001179477b) |
+| Kleros  BlockHashRNGFallback V.1 | [web.solidified.io/contract/5b57bc639d56c6001179477a](https://web.solidified.io/contract/5b57bc639d56c6001179477a) |
+| Kleros Arbitrable Curated List V.1 | [web.solidified.io/contract/5b57b78e9d56c60011794779](https://web.solidified.io/contract/5b57b78e9d56c60011794779) |
 | Bankera | [web.solidified.io/contract/5adda446c0729d0011c169fe](https://web.solidified.io/contract/5adda446c0729d0011c169fe) |
 | Gnosis Dutch Exchange | [web.solidified.io/contract/5ad47df97733ff0011a95c7c](https://web.solidified.io/contract/5ad47df97733ff0011a95c7c) |
 | Gnosis Safe | [web.solidified.io/contract/5b4769b1e6c0d80014f3ea4e](https://web.solidified.io/contract/5b4769b1e6c0d80014f3ea4e) |
