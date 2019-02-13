@@ -15,6 +15,15 @@ The following contracts have also ran a bug bounty with Solidified community:
 
 | Project version | Bounty Program URL |
 | ------ | ------ |
+| Kleros Escrow V2 | [web.solidified.io/contract/5c5a2997c752390011be4c53](https://web.solidified.io/contract/5c5a2997c752390011be4c53) |
+| Kleros Sortition Sum Tree | [web.solidified.io/contract/5c59d5d2c752390011be4c50](https://web.solidified.io/contract/5c59d5d2c752390011be4c50) |
+| Argent Wallet V2 | [web.solidified.io/contract/5c50371bc752390011be4c37](https://web.solidified.io/contract/5c50371bc752390011be4c37) |
+| Argent Wallet V1 | [web.solidified.io/contract/5c41eb1ac752390011be4bd9](https://web.solidified.io/contract/5c41eb1ac752390011be4bd9) |
+| Wyvern Protocol V3 | [web.solidified.io/contract/5c40e269c752390011be4bd7](https://web.solidified.io/contract/5c40e269c752390011be4bd7) |
+| Kleros Escrow V1 | [web.solidified.io/contract/5c2d58f8879c0e00179c6938](https://web.solidified.io/contract/5c2d58f8879c0e00179c6938) |
+| Ethless | [web.solidified.io/contract/5bf57141a4cc180012673703](https://web.solidified.io/contract/5bf57141a4cc180012673703) |
+| Uniswap | [web.solidified.io/contract/5bf0b0095d54f50011d5658c](https://web.solidified.io/contract/5bf0b0095d54f50011d5658c) |
+| Coinvest | [web.solidified.io/contract/5bcb6df0fd407500116a9d1c](https://web.solidified.io/contract/5bcb6df0fd407500116a9d1c) |
 | Brickblock | [web.solidified.io/contract/5b9e754ffd407500116a9d0f](https://web.solidified.io/contract/5b9e754ffd407500116a9d0f) |
 | Polymath | [web.solidified.io/contract/5b883dddfd407500116a9d09](https://web.solidified.io/contract/5b883dddfd407500116a9d09) |
 | Tip Splitter | [web.solidified.io/contract/5b75080fe922730013e32318](https://web.solidified.io/contract/5b75080fe922730013e32318) |
