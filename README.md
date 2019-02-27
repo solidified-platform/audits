@@ -15,6 +15,8 @@ The following contracts have also ran a bug bounty with Solidified community:
 
 | Project version | Bounty Program URL |
 | ------ | ------ |
+| Kleros Athena Release | [web.solidified.io/contract/5c729a9dc752390011be4c8c](https://web.solidified.io/contract/5c729a9dc752390011be4c8c) |
+| Kleros  Capped Math | [web.solidified.io/contract/5c6c4fafc752390011be4c7d](https://web.solidified.io/contract/5c6c4fafc752390011be4c7d) |
 | Kleros Escrow V2 | [web.solidified.io/contract/5c5a2997c752390011be4c53](https://web.solidified.io/contract/5c5a2997c752390011be4c53) |
 | Kleros Sortition Sum Tree | [web.solidified.io/contract/5c59d5d2c752390011be4c50](https://web.solidified.io/contract/5c59d5d2c752390011be4c50) |
 | Argent Wallet V2 | [web.solidified.io/contract/5c50371bc752390011be4c37](https://web.solidified.io/contract/5c50371bc752390011be4c37) |
